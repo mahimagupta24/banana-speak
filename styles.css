@@ -18,7 +18,7 @@ main{
 textarea{
     box-sizing: border-box;
     display:block;
-    width:100%;
+    width:60vh;
     min-height: 20vh;
     margin-top: 2rem;
     font-size: large;
@@ -39,12 +39,11 @@ button{
   }
 #output{
     box-sizing:border-box;
-    width:100%;
+    width:60vh;
     border: 1px solid black;
-        width: 80%;
-        display: flex;
+        display: block;
         align-items: center;
-        min-height: 20vh;
+        min-height: 10vh;
         margin-top: 2rem;
 }
 
